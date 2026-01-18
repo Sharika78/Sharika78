@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sharika</h1>
-<h3 align="center">A passionate with a strong interest in software development and emerging technologies</h3>
+<h3 align="center">A passionate with a strong interest in Machine Learning & Data Science Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7e4fde20d16f05f7f68d5fbe55fff4bdc0b43486b11a95aa21b443bb1cd6e622/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharika78&label=Profile%20views&color=0e75b6&style=flat" alt="sharika78" /> </p>
