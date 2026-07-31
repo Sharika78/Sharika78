@@ -4,9 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharika78&label=Profile%20views&color=0e75b6&style=flat" alt="sharika78" /> </p>
 
-- 🌱 I’m currently learning **python**
+👨‍💻 About Me:
+🚀 Current Focus: Building Machine Learning models.
+🧠 Learning Journey: Advanced Deep Learning and Data Structures & Algorithms (DSA).
+🤝 Collaboration: Interested in AI-based projects and collaborative coding.
+💬 Tech Stack: Python, C, C++, Machine Learning, Deep Learning.
 
-- 💬 Ask me about **python & C**
+🛠️ Skills:
+Languages: Python, C, C++.
+Fields: Machine Learning, Deep Learning, Data Structures.
+Platforms: Google Colab, Jupyter, Kaggle, VS Code.
 
 - 📫 How to reach me **abidasultanasharika@gmail.com**
 
