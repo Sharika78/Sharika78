@@ -1,39 +1,81 @@
-<h1 align="center">Hi 👋, I'm Sharika</h1>
-<h3 align="center">A passionate with a strong interest in Machine Learning & Data Science Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharika78&label=Profile%20views&color=0e75b6&style=flat" alt="sharika78" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7FD9B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abida+Sultana+Sharika+%F0%9F%91%8B;Machine+Learning+%7C+Computer+Vision+%7C+Python;Aspiring+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
 
-👨‍💻 About Me:
-🚀 Current Focus: Building Machine Learning models.
-🧠 Learning Journey: Advanced Deep Learning and Data Structures & Algorithms (DSA).
-🤝 Collaboration: Interested in AI-based projects and collaborative coding.
-💬 Tech Stack: Python, C, C++, Machine Learning, Deep Learning.
+</div>
 
-🛠️ Skills:
-Languages: Python, C, C++.
-Fields: Machine Learning, Deep Learning, Data Structures.
-Platforms: Google Colab, Jupyter, Kaggle, VS Code.
-
-- 📫 How to reach me **abidasultanasharika@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sharika65363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sharika65363" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abida-sultana-sharika-667909325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abida-sultana-sharika-667909325" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sharika99999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sharika99999" height="30" width="40" /></a>
-<a href="https://instagram.com/abida.sultana.sharika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abida.sultana.sharika" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sharikachef_36" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sharikachef_36" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@abidasultanasha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abidasultanasha1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sharika16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharika16" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer%20(Aspiring)-C45733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSE-Student-7FD9B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-E8B25C?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharika78&show_icons=true&locale=en&layout=compact" alt="sharika78" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharika78&show_icons=true&locale=en" alt="sharika78" /></p>
+- 🎓 CSE student, currently building a solid foundation in **Machine Learning** and **Computer Vision**
+- 🧩 Working through a structured, consistent daily ML learning routine — fundamentals first, depth over speed
+- 🚀 Building toward a full **AI Engineering** skillset — LangChain, RAG, and Vector Databases are next on the roadmap
+- 🌱 Currently sharpening **Python** and applied ML fundamentals
+- 💬 Always open to internship opportunities, collaboration, and learning from others in ML/AI
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharika78&" alt="sharika78" /></p>
+---
 
+### 🔭 Currently Learning
+
+```text
+[■■■■■■■■■□□□□□□□□□□□] Python & ML Fundamentals
+[■■■■□□□□□□□□□□□□□□□□] Computer Vision
+[■■□□□□□□□□□□□□□□□□□□] LangChain · RAG · Vector Databases
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A2E2C?style=flat-square&logo=scikitlearn&logoColor=7FD9B6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sharika78&show_icons=true&theme=dark&hide_border=true&bg_color=0A2E2C&title_color=7FD9B6&icon_color=E8B25C&text_color=F2EFE9" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Sharika78&theme=dark&hide_border=true&background=0A2E2C&ring=7FD9B6&fire=E8B25C&currStreakLabel=7FD9B6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharika78&layout=compact&theme=dark&hide_border=true&bg_color=0A2E2C&title_color=7FD9B6&text_color=F2EFE9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharika78&theme=react-dark&bg_color=0A2E2C&color=7FD9B6&line=E8B25C&point=F2EFE9&hide_border=true" width="95%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:abidasultanasharika@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abidasultanasharika%40gmail.com-E8B25C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abida-sultana-sharika-667909325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/abidasultanasharika" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sharika78&color=7FD9B6&style=flat-square&label=Profile+Views)
+
+</div>
