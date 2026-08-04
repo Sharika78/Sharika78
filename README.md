@@ -24,12 +24,11 @@
 
 ### 🔭 Currently Learning
 
-```text
-[■■■■■■■■■□□□□□□□□□□□] Python & ML Fundamentals
-[■■■■□□□□□□□□□□□□□□□□] Computer Vision
-[■■□□□□□□□□□□□□□□□□□□] LangChain · RAG · Vector Databases
-```
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20%26%20ML%20Fundamentals-In%20Progress-7FD9B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Getting%20Started-E8B25C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain%20%C2%B7%20RAG%20%C2%B7%20Vector%20DB-Up%20Next-6c757d?style=for-the-badge" />
+</p>
 ---
 
 ### 🛠️ Tech Stack
@@ -40,7 +39,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0A2E2C?style=flat-square&logo=scikitlearn&logoColor=7FD9B6" />
 </p>
+---
 
+---
+
+### 🏆 Coding Profiles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Sharika16-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/YOUR_HR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
