@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-Getting%20Started-E8B25C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain%20%C2%B7%20RAG%20%C2%B7%20Vector%20DB-Up%20Next-6c757d?style=for-the-badge" />
 </p>
----
+<hr />
 
 ### 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0A2E2C?style=flat-square&logo=scikitlearn&logoColor=7FD9B6" />
 </p>
----
+
 
 ---
 
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
----
+<hr />
 
 ### 📊 GitHub Stats
 
@@ -65,7 +65,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharika78&theme=react-dark&bg_color=0A2E2C&color=7FD9B6&line=E8B25C&point=F2EFE9&hide_border=true" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharika78/Sharika78/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharika78/Sharika78/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sharika78/Sharika78/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
