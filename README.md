@@ -1,3 +1,12 @@
+<div align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sharika78&color=7FD9B6&style=flat-square&label=Profile+Views)
+
+</div>
+
+
+</div>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7FD9B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abida+Sultana+Sharika+%F0%9F%91%8B;Machine+Learning+%7C+Computer+Vision+%7C+Python;Aspiring+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -88,8 +97,4 @@
   </a>
 </p>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sharika78&color=7FD9B6&style=flat-square&label=Profile+Views)
-
-</div>
