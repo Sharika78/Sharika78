@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codeforces-Sharika16-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <a href="https://www.hackerrank.com/profile/YOUR_HR_HANDLE" target="_blank">
+  <a href="https://www.hackerrank.com/profile/abidasultanasha1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
